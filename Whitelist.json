@@ -1,0 +1,10 @@
+{
+    "bannedHWIDs": {
+        "exampleHWID1": true,
+        "exampleHWID2": true
+    },
+    "bannedIPs": {
+        "exampleIP1": true,
+        "exampleIP2": true
+    }
+}
